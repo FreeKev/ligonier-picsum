@@ -1,18 +1,10 @@
-# Welcome to React Router!
+# Welcome to Picsum Gallery
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Picsum Gallery is the result of a code challenge.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
-
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+> The objective of this code challenge project is to fetch data from `https://picsum.photos/v2/list` (use the Picsum API to get images) using: 1) Remix v2 application, or 2) a NextJS or Vite React application utilizing React Router.
+>
+> Build an application that lets a user: 1) view a list of images , and 2) click an image to present the author’s name.
 
 ## Getting Started
 
